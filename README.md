@@ -17,13 +17,8 @@ Fast & Lightweight — No frameworks, just optimized HTML, CSS, and JS
 # Clone this repository
 git clone https://github.com/talha-23/Ecommerce-project.git
 
-# Open the project folder
-cd ecommerce-website
 
-# Open index.html in your browser
-
-
-🤝 Contribution
+#🤝 Contribution
 Contributions are welcome!
 
 Fork the repo
