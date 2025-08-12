@@ -1,7 +1,7 @@
 # Ecommerce-project
 Production-ready E-Commerce Website built with HTML, CSS, and JavaScript, featuring responsive design, interactive product listings, and a seamless shopping cart experience.
 
-✨ Features
+# ✨ Features
 Responsive Design — Mobile-first layout for all devices
 
 Interactive Product Listings — Dynamic hover effects & quick views
@@ -18,7 +18,7 @@ Fast & Lightweight — No frameworks, just optimized HTML, CSS, and JS
 git clone https://github.com/talha-23/Ecommerce-project.git
 
 
-#🤝 Contribution
+# 🤝 Contribution
 Contributions are welcome!
 
 Fork the repo
